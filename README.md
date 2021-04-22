@@ -9,5 +9,5 @@
 </p>
 
 <p align="left">
-<img height=400 width=600 src="endless1k.jpg">&nbsp;&nbsp;
+<img height=400 width=600 src="endless-1k.jpg">&nbsp;&nbsp;
 </p>
