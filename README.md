@@ -1,1 +1,1 @@
-# The wallpapers i've collected over a period of time 
+# Aesthetic wallpapers i've collected over a period of time 
