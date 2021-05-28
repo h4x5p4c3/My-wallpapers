@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-<img height=400 width=600 src="endless-1k.jpg">&nbsp;&nbsp;
+<img height=400 width=600 src="lost-1k.jpg">&nbsp;&nbsp;
 </p>
 
 <p align="right">
@@ -21,5 +21,5 @@
 </p>
 
 <p align="right">
-<img height=400 width=600 src="cold.jpg">&nbsp;&nbsp;
+<img height=400 width=600 src="tape.jpg">&nbsp;&nbsp;
 </p>
