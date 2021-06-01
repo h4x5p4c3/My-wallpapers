@@ -21,5 +21,5 @@
 </p>
 
 <p align="right">
-<img height=400 width=600 src="tape.jpg">&nbsp;&nbsp;
+<img height=400 width=600 src="00136.png">&nbsp;&nbsp;
 </p>
