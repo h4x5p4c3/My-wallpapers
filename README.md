@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-<img height=400 width=600 src="lost-1k.jpg">&nbsp;&nbsp;
+<img height=400 width=600 src="lights-1k.jpg">&nbsp;&nbsp;
 </p>
 
 <p align="right">
-<img height=400 width=600 src="kiss.jpg">&nbsp;&nbsp;
+<img height=400 width=600 src="serenity-1k.jpg">&nbsp;&nbsp;
 </p>
 
 <p align="left">
